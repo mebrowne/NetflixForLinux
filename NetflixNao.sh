@@ -3,7 +3,7 @@ sudo apt-get update
 sudo apt-get install --install-recommends pipelight-multi
 sudo pipelight-plugin --update
 
-Echo "Installing Pipelight for 
+Echo "Installing Pipelight for "
 sudo pipelight-plugin --enable silverlight
 
 Echo "Checking for issues"
